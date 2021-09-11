@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/itsgalo/acadiaapp/issues"
   },
-  "homepage": "https://github.com/itsgalo/acadiaapp#readme"
+  "homepage": "https://github.com/itsgalo/acadiaapp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
