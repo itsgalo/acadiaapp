@@ -1,0 +1,19 @@
+{
+  "name": "acadiaapp",
+  "version": "1.0.0",
+  "description": "my first web app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsgalo/acadiaapp.git"
+  },
+  "author": "Galo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsgalo/acadiaapp/issues"
+  },
+  "homepage": "https://github.com/itsgalo/acadiaapp#readme"
+}
